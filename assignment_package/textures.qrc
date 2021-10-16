@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>minecraft_textures_all/minecraft_normals_all.png</file>
+        <file>minecraft_textures_all/minecraft_textures_all.png</file>
+        <file>minecraft_textures_all/minecraft_textures_all_grey_grass.png</file>
+        <file>minecraft_textures_all/dirt.png</file>
+        <file>minecraft_textures_all/grass.png</file>
+        <file>minecraft_textures_all/ice.png</file>
+        <file>minecraft_textures_all/lava.png</file>
+        <file>minecraft_textures_all/sand.png</file>
+        <file>minecraft_textures_all/snow.png</file>
+        <file>minecraft_textures_all/stone.png</file>
+        <file>minecraft_textures_all/water.png</file>
+        <file>minecraft_textures_all/leaf.png</file>
+        <file>minecraft_textures_all/wood.png</file>
+    </qresource>
+</RCC>
